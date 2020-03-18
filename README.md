@@ -22,7 +22,3 @@ Windows:
 
 3、直接打开out/artifacts/SerialTools_jar/SerialTools.jar 就可以进行串口调试了，当然主要是Mac上能用
 ----
-
-如果有问题，请留言或者邮件咨询
-###
-    E-mail:371934907@qq.com
